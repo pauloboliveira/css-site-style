@@ -9,12 +9,14 @@ h1 {
     font-family: 'Sacramento', cursive;
     font-size: 4.85rem;
     color: #653614;
+    line-height: 2;
 }
 
 h2 {
     font-family: 'Montserrat', sans-serif;
     font-size: 1.3rem;
     color: #653614;
+    font-weight: 600;
 } 
 
 h3 {
@@ -26,6 +28,7 @@ h3 {
 a {
     font-family: 'Montserrat', sans-serif;
     color: #4d873e;
+    font-weight: 600;
 }
 
 .profile-picture {
